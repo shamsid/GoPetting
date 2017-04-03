@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">GoPetting</string>
+	<string name="google_api_key">AIzaSyCEGxgwgQu_tKK-3VoDKUyaDyzk7AadMSk</string>
+	<string name="facebook_app_id">1879786515623285</string>
+	<string name="fb_login_protocol_scheme">fb1879786515623285</string>
+
+</resources>

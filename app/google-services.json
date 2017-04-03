@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51798458834",
+    "project_id": "loginpetting"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51798458834:android:c3f56a3daa71af08",
+        "android_client_info": {
+          "package_name": "com.shamsid.gopetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51798458834-e1m14o0ongdjq4u92c9mgnbkc28ud3md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamsid.gopetting",
+            "certificate_hash": "ebc40bdf57ec2db54b0903eefa63d1dc36c17d2b"
+          }
+        },
+        {
+          "client_id": "51798458834-l6roeps4fiuet17hq2rol9qidk1detqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FUyWZew7pj3v-LtSQ6L97IcISKvzRDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
